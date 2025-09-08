@@ -1,0 +1,1 @@
+This file will test the functionality of payment methods
